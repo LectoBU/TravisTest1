@@ -5,4 +5,4 @@ function add(a, b) {
 }
 
 
-console.log(add(3, 3));
+console.log(add(4, 3));
